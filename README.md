@@ -1,37 +1,34 @@
 # Hadoop电商平台数据分析与可视化系统
 
-#### 介绍
+## 基于Hadoop电商购物推荐平台销售数据分析与可视化系统
+
+## 系统介绍：
+
 基于Hadoop电商购物推荐平台销售数据分析与可视化系统，爬虫，数据清洗，B/S架构，前台用户系统和后台管理系统，用户+商家+管理员，推荐根据用户的购买行为进行协同过滤推荐，用户1用户2用户1购买商品1商品7用户2购买商品7系统会认为2个用户的收藏行为协同，给用户2推荐商品1。
 
-#### 软件架构
-软件架构说明
+## 开发技术工具：
 
+Hadoop，Spark，mysql，vue，python，jdk，Django，爬虫，数据清洗，B/S架构等技术。
 
-#### 安装教程
+## 部分功能实现如下：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 用户系统
 
-#### 使用说明
+![输入图片说明](%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.png)
+![输入图片说明](%E7%B3%BB%E7%BB%9F%E9%A6%96%E9%A1%B5.png)
+![输入图片说明](%E5%95%86%E5%93%81%E6%8E%A8%E8%8D%90.png)
+![输入图片说明](%E6%8E%A8%E8%8D%90.png)
+![输入图片说明](%E6%8E%A8%E8%8D%90.png)
+![输入图片说明](%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
+![输入图片说明](%E8%AE%A2%E5%8D%95.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 管理系统
 
-#### 参与贡献
+![输入图片说明](%E7%AE%A1%E7%90%86%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
+![输入图片说明](%E5%95%86%E5%AE%B6%E7%AE%A1%E7%90%86.png)
+![输入图片说明](%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86.png) _强调_ 
+![输入图片说明](%25%7DQ%60K%5D%60(JFPSVL%60%7D%5D~SU%7BIE.png)
+![输入图片说明](%E5%88%86%E6%9E%90%E5%8F%AF%E8%A7%86%E5%8C%96.png)
+![输入图片说明](%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%AF%E8%A7%86%E5%8C%96.png)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 源码获取：
